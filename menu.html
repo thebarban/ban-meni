@@ -271,6 +271,7 @@
       text-align: center;
       color: var(--green);
       font-size: 1rem;
+      font-weight: 700;
       padding: 20px 16px;
       border-top: 1px solid var(--border);
       background: #000;
@@ -308,7 +309,7 @@
 </div>
 
 <footer>
-  <p id="footerNote">БАН. · Све цене су у динарима</p>
+  <p id="footerNote">Све цене су у динарима</p>
 </footer>
 
 <script>
@@ -559,8 +560,8 @@
   function updateFooter() {
     document.getElementById('footerNote').textContent =
       lang === 'sr'
-        ? 'БАН. · Све цене су у динарима'
-        : 'БАН. · All prices are in Serbian dinars (RSD)';
+        ? 'Све цене су у динарима'
+        : 'All prices are in Serbian dinars (RSD)';
   }
 
   /* ─────────────────────────────────────────────
