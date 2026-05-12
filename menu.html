@@ -103,13 +103,12 @@
     .nav-wrap::-webkit-scrollbar { display: none; }
     .nav-tabs {
       display: flex;
-      padding: 0 8px;
-      gap: 4px;
-      width: max-content;
-      min-width: 100%;
+      width: 100%;
     }
     .nav-tab {
-      padding: 12px 18px;
+      flex: 1;
+      text-align: center;
+      padding: 12px 8px;
       font-size: 1.17rem;
       font-weight: 700;
       font-family: inherit;
@@ -225,8 +224,8 @@
     /* ─── LIST ITEMS ─── */
     .item-list { display: flex; flex-direction: column; gap: 2px; }
     .item-row {
-      display: flex;
-      justify-content: space-between;
+      display: grid;
+      grid-template-columns: 3fr 1fr;
       align-items: baseline;
       padding: 8px 10px;
       border-radius: 8px;
@@ -236,8 +235,6 @@
     .item-name {
       font-size: 1.35rem;
       color: var(--white);
-      flex: 1;
-      padding-right: 8px;
     }
     .item-note {
       font-size: 1.35rem;
@@ -246,23 +243,18 @@
       margin-top: 1px;
     }
     .item-price {
-      font-size: 1.32rem;
+      font-size: 1.35rem;
       font-weight: 700;
       color: var(--green);
       white-space: nowrap;
+      text-align: right;
     }
     .item-price.no-price {
       color: var(--muted);
       font-weight: 400;
       font-size: 0.8rem;
     }
-    .divider {
-      flex: 1;
-      height: 1px;
-      border-bottom: 1px dotted var(--border);
-      margin: 0 8px;
-      align-self: center;
-    }
+    .divider { display: none; }
 
     /* ─── LOADING / ERROR ─── */
     .state-msg {
@@ -276,7 +268,7 @@
     footer {
       text-align: center;
       color: var(--muted);
-      font-size: 0.72rem;
+      font-size: 1rem;
       padding: 20px 16px;
       border-top: 1px solid var(--border);
       background: #000;
@@ -539,7 +531,7 @@
   function fmtPrice(p) {
     const n = parseInt(p, 10);
     if (isNaN(n)) return '';
-    return n.toLocaleString('sr-RS') + ' рсд';
+    return n.toLocaleString('sr-RS');
   }
 
   function esc(s) {
