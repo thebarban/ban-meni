@@ -1,8 +1,9 @@
 section,section_sr,section_en,category_sr,category_en,subcategory_sr,subcategory_en,display,name_sr,name_en,note_sr,note_en,price,image
-coffee,Кафа и пиће,Coffee & Drinks,Кафе,Coffee,,,list,Еспресо,Espresso,"арабика 100% / арабика 80% + робуста 20%","arabica 100% / arabica 80% + robusta 20%",190,
-coffee,Кафа и пиће,Coffee & Drinks,Кафе,Coffee,,,list,Дупли еспресо,Double espresso,,,,
+coffee,Кафа и пиће,Coffee & Drinks,Кафе,Coffee,,,list,Еспресо,Espresso,арабика 100%,arabica 100%,190,
+coffee,Кафа и пиће,Coffee & Drinks,Кафе,Coffee,,,list,Еспресо,Espresso,арабика 80% + робуста 20%,arabica 80% + robusta 20%,190,
+coffee,Кафа и пиће,Coffee & Drinks,Кафе,Coffee,,,list,Дупли еспресо,Double espresso,,,260,
 coffee,Кафа и пиће,Coffee & Drinks,Кафе,Coffee,,,list,Еспресо са млеком,Espresso with milk,,,200,
-coffee,Кафа и пиће,Coffee & Drinks,Кафе,Coffee,,,list,Дупли еспресо са млеком,Double espresso with milk,,,,
+coffee,Кафа и пиће,Coffee & Drinks,Кафе,Coffee,,,list,Дупли еспресо са млеком,Double espresso with milk,,,270,
 coffee,Кафа и пиће,Coffee & Drinks,Кафе,Coffee,,,list,Еспресо са сојиним млеком,Espresso with soy milk,,,210,
 coffee,Кафа и пиће,Coffee & Drinks,Кафе,Coffee,,,list,Американо,Americano,,,190,
 coffee,Кафа и пиће,Coffee & Drinks,Кафе,Coffee,,,list,Макијато,Macchiato,,,210,
@@ -15,36 +16,36 @@ coffee,Кафа и пиће,Coffee & Drinks,Кафе,Coffee,,,list,Нес,Nescaf
 coffee,Кафа и пиће,Coffee & Drinks,Кафе,Coffee,,,list,Нес са сојиним млеком,Nescafé with soy milk,,,340,
 coffee,Кафа и пиће,Coffee & Drinks,Кафе,Coffee,,,list,Нес Бејлис,Nescafé Baileys,,,350,
 coffee,Кафа и пиће,Coffee & Drinks,Кафе,Coffee,,,list,Домаћа кафа »Зрнослава«,»Zrnoslava« traditional coffee,,,150,
-coffee,Кафа и пиће,Coffee & Drinks,Топли напици,Hot Drinks,,,list,Милфорд,Milford tea,"камилица / нана / црни / јагода-јогурт / јабука-цимет","chamomile / mint / black / strawberry-yogurt / apple-cinnamon",190,
+coffee,Кафа и пиће,Coffee & Drinks,Топли напици,Hot Drinks,,,list,Милфорд,Milford tea,камилица / нана / црни / јагода-јогурт / јабука-цимет,chamomile / mint / black / strawberry-yogurt / apple-cinnamon,190,
 coffee,Кафа и пиће,Coffee & Drinks,Топли напици,Hot Drinks,,,list,Топла чоколада,Hot chocolate,бела / црна,white / dark,320,
 coffee,Кафа и пиће,Coffee & Drinks,Топли напици,Hot Drinks,,,list,Кувано вино,Mulled wine,,,320,
 coffee,Кафа и пиће,Coffee & Drinks,Цеђени сокови,Fresh Juices,,,list,Лимунада,Lemonade,,,270,
-coffee,Кафа и пиће,Coffee & Drinks,Цеђени сокови,Fresh Juices,,,list,Цеђена поморанца,Fresh orange juice,,,360,
+coffee,Кафа и пиће,Coffee & Drinks,Цеђени сокови,Fresh Juices,,,list,Цеђена поморанџа,Fresh orange juice,,,360,
 coffee,Кафа и пиће,Coffee & Drinks,Цеђени сокови,Fresh Juices,,,list,Цеђени грејп,Fresh grapefruit juice,,,390,
 coffee,Кафа и пиће,Coffee & Drinks,Цеђени сокови,Fresh Juices,,,list,Цеђени микс,Fresh mixed juice,,,410,
 coffee,Кафа и пиће,Coffee & Drinks,Негазирани сокови,Still Juices,,,list,Кјуб,Qube,јагода / јабука,strawberry / apple,240,
 coffee,Кафа и пиће,Coffee & Drinks,Негазирани сокови,Still Juices,,,list,Ајс ти,Ice tea,,,240,
-coffee,Кафа и пиће,Coffee & Drinks,Негазирани сокови,Still Juices,,,list,Цедевита,Cedevita,поморанца / зова / лимета,orange / elderflower / lime,220,
+coffee,Кафа и пиће,Coffee & Drinks,Негазирани сокови,Still Juices,,,list,Цедевита,Cedevita,поморанџа / зова / лимета,orange / elderflower / lime,220,
 coffee,Кафа и пиће,Coffee & Drinks,Негазирани сокови,Still Juices,,,list,Аква Вива,Aqua Viva,,,190,
 coffee,Кафа и пиће,Coffee & Drinks,Газирани сокови,Carbonated Drinks,,,list,Пепси,Pepsi,,,240,
 coffee,Кафа и пиће,Coffee & Drinks,Газирани сокови,Carbonated Drinks,,,list,Пепси Макс,Pepsi Max,,,240,
 coffee,Кафа и пиће,Coffee & Drinks,Газирани сокови,Carbonated Drinks,,,list,Миринда,Mirinda,,,240,
 coffee,Кафа и пиће,Coffee & Drinks,Газирани сокови,Carbonated Drinks,,,list,7уп,7UP,,,240,
 coffee,Кафа и пиће,Coffee & Drinks,Газирани сокови,Carbonated Drinks,,,list,Евервес тоник,Evervess tonic,,,240,
-coffee,Кафа и пиће,Coffee & Drinks,Газирани сокови,Carbonated Drinks,,,list,Евервес битер лем,Evervess bitter lemon,,,240,
+coffee,Кафа и пиће,Coffee & Drinks,Газирани сокови,Carbonated Drinks,,,list,Евервес битер лемон,Evervess bitter lemon,,,240,
 coffee,Кафа и пиће,Coffee & Drinks,Газирани сокови,Carbonated Drinks,,,list,Клакер,Clacker,жути / црвени,yellow / red,220,
 coffee,Кафа и пиће,Coffee & Drinks,Газирани сокови,Carbonated Drinks,,,list,Ред Бул,Red Bull,оригинал / зеро / ред едишн,original / zero / red edition,350,
 coffee,Кафа и пиће,Coffee & Drinks,Газирани сокови,Carbonated Drinks,,,list,Књаз Милош газиран,Knjaz Miloš sparkling water,,,190,
 coffee,Кафа и пиће,Coffee & Drinks,Газирани сокови,Carbonated Drinks,,,list,Књаз Милош са лимуном,Knjaz Miloš with lemon,,,210,
-alcohol,Алкохол,Alcohol,Точено пиво,Draft Beer,,,list,Нишко Нефилтрирано 0.3,Niško Unfiltered 0.3,,,260,
-alcohol,Алкохол,Alcohol,Точено пиво,Draft Beer,,,list,Нишко Нефилтрирано 0.5,Niško Unfiltered 0.5,,,320,
-alcohol,Алкохол,Alcohol,Точено пиво,Draft Beer,,,list,Нишко Лагер 0.3,Niško Lager 0.3,,,240,
-alcohol,Алкохол,Alcohol,Точено пиво,Draft Beer,,,list,Нишко Лагер 0.5,Niško Lager 0.5,,,300,
-alcohol,Алкохол,Alcohol,Точено пиво,Draft Beer,Флаширано пиво,Bottled Beer,list,Нишко мало 0.3,Niško small 0.3,4.7%,4.7%,240,
-alcohol,Алкохол,Alcohol,Точено пиво,Draft Beer,Флаширано пиво,Bottled Beer,list,Нишко Лагано 0.5,Niško Light 0.5,4%,4%,300,
-alcohol,Алкохол,Alcohol,Точено пиво,Draft Beer,Флаширано пиво,Bottled Beer,list,Нишки Калфа 0.5,Niški Kalfa 0.5,6% · Ароматично суво захмељено,6% · Aromatic dry-hopped,340,
-alcohol,Алкохол,Alcohol,Точено пиво,Draft Beer,Флаширано пиво,Bottled Beer,list,Кругер и Брент Crвено 0.5,Kruger & Brent Red 0.5,8%,8%,380,
-alcohol,Алкохол,Alcohol,Точено пиво,Draft Beer,Флаширано пиво,Bottled Beer,list,Синђелић,Sinđelić,,,,
+alcohol,Алкохол,Alcohol,Пиво,Beer,Точено пиво,Draft Beer,list,Нишко Нефилтрирано 0.3,Niško Unfiltered 0.3,,,260,
+alcohol,Алкохол,Alcohol,Пиво,Beer,Точено пиво,Draft Beer,list,Нишко Нефилтрирано 0.5,Niško Unfiltered 0.5,,,320,
+alcohol,Алкохол,Alcohol,Пиво,Beer,Точено пиво,Draft Beer,list,Нишко Лагер 0.3,Niško Lager 0.3,,,240,
+alcohol,Алкохол,Alcohol,Пиво,Beer,Точено пиво,Draft Beer,list,Нишко Лагер 0.5,Niško Lager 0.5,,,300,
+alcohol,Алкохол,Alcohol,Пиво,Beer,Флаширано пиво,Bottled Beer,list,Нишко мало 0.3,Niško small 0.3,4.7%,4.7%,240,
+alcohol,Алкохол,Alcohol,Пиво,Beer,Флаширано пиво,Bottled Beer,list,Нишко Лагано 0.5,Niško Light 0.5,4%,4%,300,
+alcohol,Алкохол,Alcohol,Пиво,Beer,Флаширано пиво,Bottled Beer,list,Нишки Калфа 0.5,Niški Kalfa 0.5,6% · Ароматично суво захмељено,6% · Aromatic dry-hopped,340,
+alcohol,Алкохол,Alcohol,Пиво,Beer,Флаширано пиво,Bottled Beer,list,Кругер и Брент Crвено 0.5,Kruger & Brent Red 0.5,8%,8%,380,
+alcohol,Алкохол,Alcohol,Пиво,Beer,Флаширано пиво,Bottled Beer,list,Синђелић,Sinđelić,,,300,
 alcohol,Алкохол,Alcohol,Виски,Whiskey,,,list,Џејмисон 0.03,Jameson 0.03,,,310,
 alcohol,Алкохол,Alcohol,Виски,Whiskey,,,list,Џек Данијелс 0.03,Jack Daniel's 0.03,,,350,
 alcohol,Алкохол,Alcohol,Виски,Whiskey,,,list,Вестерн голд бурбон 0.03,Western Gold Bourbon 0.03,,,250,
@@ -52,11 +53,11 @@ alcohol,Алкохол,Alcohol,Рум,Rum,,,list,Хавана 0.03,Havana 0.03,,
 alcohol,Алкохол,Alcohol,Рум,Rum,,,list,Бакарди 0.03,Bacardi 0.03,,,290,
 alcohol,Алкохол,Alcohol,Ракије,Rakija (Brandy),,,list,Стомаклија 0.03,Stomaklia 0.03,,,220,
 alcohol,Алкохол,Alcohol,Ракије,Rakija (Brandy),,,list,Линцура 0.03,Lincura 0.03,,,220,
-alcohol,Алкохол,Alcohol,Ракије,Rakija (Brandy),,,list,Медовача 0.03,Medovača honey brandy 0.03,,,,
+alcohol,Алкохол,Alcohol,Ракије,Rakija (Brandy),,,list,Медовача 0.03,Medovača honey brandy 0.03,,,250,
 alcohol,Алкохол,Alcohol,Ракије,Rakija (Brandy),,,list,Деда Паунова шљива 0.03,Grandpa Paunov's Plum 0.03,,,230,
 alcohol,Алкохол,Alcohol,Ракије,Rakija (Brandy),,,list,Деда Паунова дуња 0.03,Grandpa Paunov's Quince 0.03,,,250,
 alcohol,Алкохол,Alcohol,Ракије,Rakija (Brandy),,,list,Деда Паунова Виљамовка 0.03,Grandpa Paunov's Pear 0.03,,,250,
-alcohol,Алкохол,Alcohol,Вињак,Vinjak (Brandy),,,list,Рубинов вињак 0.03,Rubinov vinjak 0.03,,,,
+alcohol,Алкохол,Alcohol,Вињак,Vinjak (Brandy),,,list,Рубинов вињак 0.03,Rubinov vinjak 0.03,,,270,
 alcohol,Алкохол,Alcohol,Вермут и Аперитиви,Vermouth & Aperitifs,,,list,Вермут Рубин 0.1,Vermouth Rubin 0.1,,,240,
 alcohol,Алкохол,Alcohol,Вермут и Аперитиви,Vermouth & Aperitifs,,,list,Кампари 0.03,Campari 0.03,,,250,
 alcohol,Алкохол,Alcohol,Вермут и Аперитиви,Vermouth & Aperitifs,,,list,Мартини Бијанко 0.05,Martini Bianco 0.05,,,230,
@@ -67,22 +68,23 @@ alcohol,Алкохол,Alcohol,Ликери,Liqueurs,,,list,Амарето 0.03,
 alcohol,Алкохол,Alcohol,Ликери,Liqueurs,,,list,Лимунчело Рамацоти 0.03,Ramazzotti Limoncello 0.03,,,270,
 alcohol,Алкохол,Alcohol,Цин,Gin,,,list,Бифитер 0.03,Beefeater 0.03,,,230,
 alcohol,Алкохол,Alcohol,Цин,Gin,,,list,Пинк бифитер 0.03,Beefeater Pink 0.03,,,230,
-alcohol,Алкохол,Alcohol,Цин,Gin,,,list,Хапстед џинови 0.03,Hapstead gin 0.03,,,,
+alcohol,Алкохол,Alcohol,Цин,Gin,,,list,Хапстед џинови 0.03,Hapstead gin 0.03,,,200,
 alcohol,Алкохол,Alcohol,Текила,Tequila,,,list,Хосе Куерво 0.03,Jose Cuervo 0.03,,,270,
 alcohol,Алкохол,Alcohol,Текила,Tequila,,,list,Хосе Куерво голд 0.03,Jose Cuervo Gold 0.03,,,270,
 alcohol,Алкохол,Alcohol,Водка,Vodka,,,list,Финландија 0.03,Finlandia 0.03,,,260,
 alcohol,Алкохол,Alcohol,Вина,Wine,,,list,Жути цвет 0.187,Žuti cvet 0.187,Винарија Алексић,Aleksić Winery,450,
 alcohol,Алкохол,Alcohol,Вина,Wine,,,list,Жути цвет 0.75,Žuti cvet 0.75,Винарија Алексић,Aleksić Winery,1800,
 alcohol,Алкохол,Alcohol,Сајдери,Ciders,,,list,Сомерзби,Somersby,крушка / јабука / боровница,pear / apple / blueberry,340,
-cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Негрони,Negroni,"Цин, кампари, вермут.","Gin, Campari, vermouth.",490,negroni.jpg
-cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Матадор,Matador,"Текила, цеђени лимун, ананас.","Tequila, fresh lemon, pineapple.",480,matador.jpg
-cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Аперол Шприц,Aperol Spritz,"Аперол, просеко, сода вода.","Aperol, prosecco, soda water.",480,aperol.jpg
-cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Куба Либре,Cuba Libre,"Бакарди, шећер, лимета, кока кола.","Bacardi, sugar, lime, Coca-Cola.",530,cuba.jpg
-cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Еспресито,Espressito,"Еспресо, водка, калуа, шећерни сируп.","Espresso, vodka, Kahlúa, sugar syrup.",550,espressito.jpg
-cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Јутриић Текилица,Tequila Sunrise,"Текила, сок од поморанце, гренадин.","Tequila, orange juice, grenadine.",490,tequila_sunrise.jpg
-cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Блад енд Сенд,Blood & Sand,"Бурбон, ликер од вишње, вермут, цеђена поморанца.","Bourbon, cherry liqueur, vermouth, fresh orange.",550,blood_sand.jpg
-cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Италијан Кис,Italian Kiss,"Кампари, цин, сок од јагоде, шећерни сируп, цеђени лимун.","Campari, gin, strawberry juice, sugar syrup, fresh lemon.",530,italian_kiss.jpg
-cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Мршава Кучка,Skinny Bitch,"Водка, лимунада, сода вода.","Vodka, lemonade, soda water.",330,skinny_bitch.jpg
-cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Мохито,Mojito,"Бакарди, шећер, лимета, нана, спрајт.","Bacardi, sugar, lime, mint, Sprite.",480,mojito.jpg
-cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Цин Тоници,Gin Tonic,"Цин / Пинк цин, тоник, дупла доза цина.","Gin / Pink gin, tonic, double gin measure.",470,gin_tonic.jpg
-cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Цин Физз,Gin Fizz,"Цин, цеђени лимун, сода вода.","Gin, fresh lemon, soda water.",460,gin_fizz.jpg
+cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Црвен Бан,Crven Ban,"Џин, малибу, сок од јагоде, кокосов ликер, пире од јагода.","Gin, Malibu, strawberry juice, coconut liqueur, strawberry puree.",600,crvenban.png
+cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Нигрони,Negroni,"Џин, кампари, вермут.","Gin, Campari, vermouth.",490,negroni.png
+cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Матадор,Matador,"Текила, цеђени лимун, ананас.","Tequila, fresh lemon, pineapple.",480,matador.png
+cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Аперол Шпиц,Aperol Spritz,"Аперол, просеко, сода вода.","Aperol, prosecco, soda water.",480,aperol.png
+cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Куба Либре,Cuba Libre,"Бакарди, шећер, лимета, кола.","Bacardi, sugar, lime, Coca-Cola.",530,cuba.png
+cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Еспресито,Espressito,"Еспресо, водка, калуа, шећерни сируп.","Espresso, vodka, Kahlúa, sugar syrup.",550,espressito.png
+cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Јутриић Текилица,Tequila Sunrise,"Текила, сок од поморанџе, гренадин.","Tequila, orange juice, grenadine.",490,tequila_sunrise.png
+cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Блад енд Сенд,Blood & Sand,"Бурбон, ликер од вишње, вермут, цеђена поморанџа.","Bourbon, cherry liqueur, vermouth, fresh orange.",550,blood_sand.png
+cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Италијан Кис,Italian Kiss,"Кампари, џин, сок од јагоде, шећерни сируп, цеђени лимун.","Campari, gin, strawberry juice, sugar syrup, fresh lemon.",530,italian_kiss.png
+cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Мршава Кучка,Skinny Bitch,"Водка, лимунада, сода вода.","Vodka, lemonade, soda water.",330,skinny_bitch.png
+cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Мохито,Mojito,"Бакарди, шећер, лимета, нана, спрајт.","Bacardi, sugar, lime, mint, Sprite.",480,mojito.png
+cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Џин Тоници,Gin Tonic,"Џин / Пинк џин, тоник, дупла доза џина.","Gin / Pink gin, tonic, double gin measure.",470,gin_tonic.png
+cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Џин Физз,Gin Fizz,"Џин, цеђени лимун, сода вода.","Gin, fresh lemon, soda water.",460,gin_fizz.png
