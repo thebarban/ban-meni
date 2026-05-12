@@ -6,7 +6,7 @@
   <title>БАН. — Карта пића</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@400;600;700;800;900&family=Krona+One&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&family=Krona+One&display=swap" rel="stylesheet">
   <style>
     :root {
       --bg: #111111;
@@ -22,9 +22,10 @@
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
     body {
-      background: var(--bg);
+      background: transparent;
       color: var(--white);
-      font-family: 'Archivo Narrow', system-ui, -apple-system, sans-serif;
+      font-family: 'Montserrat', system-ui, -apple-system, sans-serif;
+      font-weight: 600;
       font-size: 19px;
       min-height: 100vh;
     }
@@ -141,6 +142,7 @@
     .category-title {
       font-size: 1.95rem;
       font-weight: 800;
+      font-family: 'Montserrat', sans-serif;
       color: var(--green);
       text-align: center;
       padding: 14px 0 10px;
@@ -151,7 +153,8 @@
     /* ─── SUBCATEGORY ─── */
     .subcategory-title {
       font-size: 1.5rem;
-      font-weight: 700;
+      font-weight: 800;
+      font-family: 'Montserrat', sans-serif;
       color: var(--green);
       text-align: center;
       padding: 12px 0 6px;
@@ -279,6 +282,70 @@
   </style>
 </head>
 <body>
+
+<canvas id="bgCanvas" style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:-1;pointer-events:none;"></canvas>
+
+<script>
+(function(){
+  var canvas = document.getElementById('bgCanvas');
+  var ctx = canvas.getContext('2d');
+  // Ruby red and its split complement (teal-green)
+  var colors = [
+    [176, 48, 48],   // ruby red  #b03030
+    [48, 176, 96],   // complement green  #30b060
+  ];
+
+  function draw() {
+    var W = window.innerWidth, H = window.innerHeight;
+    canvas.width = W; canvas.height = H;
+
+    // Dark base
+    ctx.fillStyle = '#111111';
+    ctx.fillRect(0, 0, W, H);
+
+    // Sparse speckles — roughly 1 per 500px²
+    var count = Math.floor(W * H / 500);
+    for (var i = 0; i < count; i++) {
+      var x = Math.random() * W;
+      var y = Math.random() * H;
+      var col = colors[Math.random() < 0.52 ? 0 : 1];
+      var r = col[0], g = col[1], b = col[2];
+
+      // Most very dim, a few bright
+      var bright = Math.random();
+      var alpha, size;
+      if (bright < 0.80) {
+        alpha = Math.random() * 0.12 + 0.04;   // dim
+        size  = 0.6;
+      } else if (bright < 0.96) {
+        alpha = Math.random() * 0.22 + 0.14;   // mid
+        size  = 1.0;
+      } else {
+        alpha = Math.random() * 0.35 + 0.28;   // bright glint
+        size  = 1.6;
+      }
+
+      ctx.fillStyle = 'rgba('+r+','+g+','+b+','+alpha+')';
+      ctx.beginPath();
+      ctx.arc(x, y, size, 0, 6.2832);
+      ctx.fill();
+
+      // Occasionally draw a tiny cross for "light glint" feel
+      if (bright > 0.97) {
+        ctx.strokeStyle = 'rgba('+r+','+g+','+b+','+(alpha * 0.5)+')';
+        ctx.lineWidth = 0.5;
+        ctx.beginPath();
+        ctx.moveTo(x - 3, y); ctx.lineTo(x + 3, y);
+        ctx.moveTo(x, y - 3); ctx.lineTo(x, y + 3);
+        ctx.stroke();
+      }
+    }
+  }
+
+  draw();
+  window.addEventListener('resize', draw);
+})();
+</script>
 
 <header>
   <div class="header-row">
