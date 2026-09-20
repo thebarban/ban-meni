@@ -681,7 +681,7 @@
   ───────────────────────────────────────────── */
   fetch('menu.csv')
     .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.text(); })
-    .then(text => buildMenu(parseCSV(text)))
+    .then(text => buildMenu(parseCSV(text).filter(r => r.active !== '0')))
     .catch(err => {
       const msg = document.getElementById('loadingMsg');
       if (msg) {
