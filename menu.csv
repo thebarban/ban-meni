@@ -68,13 +68,14 @@ alcohol,Алкохолно,Alcoholic,Ликери,Liqueurs,,,list,Амарето
 alcohol,Алкохолно,Alcoholic,Ликери,Liqueurs,,,list,Лимунчело Рамацоти 0.03,Ramazzotti Limoncello 0.03,,,270,,1
 alcohol,Алкохолно,Alcoholic,Џин,Gin,,,list,Бифитер 0.03,Beefeater 0.03,,,230,,1
 alcohol,Алкохолно,Alcoholic,Џин,Gin,,,list,Пинк бифитер 0.03,Beefeater Pink 0.03,,,230,,1
-alcohol,Алкохолно,Alcoholic,Џин,Gin,,,list,Хапстед џин 0.03,Hapstead gin 0.03,,,200,,1
+alcohol,Алкохолно,Alcoholic,Џин,Gin,,,list,Хампстед џин 0.03,Hampstead gin 0.03,,,200,,1
+alcohol,Алкохолно,Alcoholic,Џин,Gin,,,list,Хампстед пинк џин 0.03,Hampstead pink gin 0.03,,,200,,1
 alcohol,Алкохолно,Alcoholic,Текила,Tequila,,,list,Хосе Куерво 0.03,Jose Cuervo 0.03,,,270,,1
 alcohol,Алкохолно,Alcoholic,Текила,Tequila,,,list,Хосе Куерво голд 0.03,Jose Cuervo Gold 0.03,,,270,,1
 alcohol,Алкохолно,Alcoholic,Водка,Vodka,,,list,Финландија 0.03,Finlandia 0.03,,,260,,1
 alcohol,Алкохолно,Alcoholic,Винo,Wine,,,list,Жути цвет 0.187,Žuti cvet 0.187,Винарија Алексић,Aleksić Winery,450,,1
-alcohol,Алкохолно,Alcoholic,Вина,Wine,,,list,Жути цвет 0.75,Žuti cvet 0.75,Винарија Алексић,Aleksić Winery,1800,,1
-alcohol,Алкохолно,Alcoholic,Сајдери,Ciders,,,list,Сомерзби,Somersby,крушка / јабука / боровница,pear / apple / blueberry,340,,1
+alcohol,Алкохолно,Alcoholic,Винo,Wine,,,list,Жути цвет 0.75,Žuti cvet 0.75,Винарија Алексић,Aleksić Winery,1800,,1
+alcohol,Алкохолно,Alcoholic,Сајдери,Ciders,,,list,Сомерзби,Somersby,крушка / јабука / боровница / бресква,pear / apple / blueberry / peach,340,,1
 cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Црвен Бан,Crven Ban,"Џин, Малибу, сок од јагоде, кокосов ликер, пире од јагода.","Gin, Malibu, strawberry juice, coconut liqueur, strawberry puree.",600,crvenban.png,1
 cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Нигрони,Negroni,"Џин, кампари, вермут.","Gin, Campari, vermouth.",490,negroni.png,1
 cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Матадор,Matador,"Текила, цеђени лимун, ананас.","Tequila, fresh lemon, pineapple.",480,matador.png,1
@@ -117,21 +118,23 @@ alcohol,Алкохол,Alcohol,Пиво,Beer,Craft пиво,Craft Beer,list,Хо
 alcohol,Алкохол,Alcohol,Пиво,Beer,Craft пиво,Craft Beer,list,Јамба точено 0.5,Jamba draft 0.5,,,400,,0
 alcohol,Алкохол,Alcohol,Пиво,Beer,Craft пиво,Craft Beer,list,Кајзер точено 0.3,Kaiser draft 0.3,,,370,,1
 alcohol,Алкохол,Alcohol,Пиво,Beer,Craft пиво,Craft Beer,list,Кајзер точено 0.5,Kaiser draft 0.5,,,450,,1
+alcohol,Алкохол,Alcohol,Пиво,Beer,Craft пиво,Craft Beer,list,Мумбаи точено 0.5,Mumbai draft 0.5,,,450,,1
+alcohol,Алкохол,Alcohol,Пиво,Beer,Craft пиво,Craft Beer,list,Мумбаи точено 0.3,Mumbai draft 0.3,,,450,,1
 alcohol,Алкохол,Alcohol,Пиво,Beer,Craft пиво,Craft Beer,list,Мумбаи 0.5 лименка,Mumbai 0.5 can,,,450,,0
 alcohol,Алкохол,Alcohol,Пиво,Beer,Craft пиво,Craft Beer,list,Сусегадо точено 0.3,Susegado draft 0.3,,,370,,1
 alcohol,Алкохол,Alcohol,Пиво,Beer,Craft пиво,Craft Beer,list,Сусегадо точено 0.5,Susegado draft 0.5,,,450,,1
 alcohol,Алкохол,Alcohol,Пиво,Beer,Craft пиво,Craft Beer,list,Сусегадо 0.5 лименка,Susegado 0.5 can,,,450,,0
 alcohol,Алкохол,Alcohol,Пиво,Beer,Флаширано пиво,Bottled Beer,list,Стаут Кругер и Брент 0.5,Stout Kruger & Brent 0.5,,,360,,0
-alcohol,Алкохол,Alcohol,Водка,Vodka,,,list,Луксусова 0.03,Luksusowa 0.03,,,200,,1
+alcohol,Алкохол,Alcohol,Водка,Vodka,,,list,Луксусова 0.03,Luksusowa 0.03,,,200,,0
 alcohol,Алкохол,Alcohol,Ликери,Liqueurs,,,list,Малибу 0.03,Malibu 0.03,,,270,,1
 alcohol,Алкохол,Alcohol,Ликери,Liqueurs,,,list,Горки лист 0.05,Gorki list 0.05,,,290,,1
 alcohol,Алкохол,Alcohol,Вермут и Аперитиви,Vermouth & Aperitifs,,,list,Аперол 0.03,Aperol 0.03,,,240,,1
 alcohol,Алкохол,Alcohol,Текила,Tequila,,,list,Олмека Голд 0.03,Olmeca Gold 0.03,,,270,,1
 alcohol,Алкохол,Alcohol,Текила,Tequila,,,list,Олмека Силвер 0.03,Olmeca Silver 0.03,,,270,,1
-alcohol,Алкохол,Alcohol,Ракије,Rakija (Brandy),,,list,Наслеђе шљива 0.03,Nasledje plum 0.03,,,230,,1
-alcohol,Алкохол,Alcohol,Ракије,Rakija (Brandy),,,list,Наслеђе дуња 0.03,Nasledje quince 0.03,,,250,,1
-alcohol,Алкохол,Alcohol,Ракије,Rakija (Brandy),,,list,Наслеђе виљамовка 0.03,Nasledje pear 0.03,,,250,,1
-alcohol,Алкохол,Alcohol,Вина,Wine,,,list,Бланк,Blanc,,,360,,0
+alcohol,Алкохол,Alcohol,Ракијa,Rakija (Brandy),,,list,Наслеђе шљива 0.03,Nasledje plum 0.03,,,230,,1
+alcohol,Алкохол,Alcohol,Ракијa,Rakija (Brandy),,,list,Наслеђе дуња 0.03,Nasledje quince 0.03,,,250,,1
+alcohol,Алкохол,Alcohol,Ракијa,Rakija (Brandy),,,list,Наслеђе виљамовка 0.03,Nasledje pear 0.03,,,250,,1
+alcohol,Алкохол,Alcohol,Пиво,Beer,,,list,Бланк,Blanc,,,360,,0
 alcohol,Алкохол,Alcohol,Сајдери,Ciders,,,list,Сомерзби бресква,Somersby Peach,,,340,,1
 cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Лонг ајленд,Long Island,"Водка, текила, рум, трипл сек, Спрајт.","Vodka, tequila, rum, triple sec, Sprite.",700,,1
 cocktails,Коктели,Cocktails,Коктели,Cocktails,,,card,Секс на клупи,Sex on the Bench,,,480,,1
