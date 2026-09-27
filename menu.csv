@@ -16,14 +16,14 @@ coffee,Безалкохолно,Non-alcoholic,Кафа,Coffee,,,list,Нес,Nesc
 coffee,Безалкохолно,Non-alcoholic,Кафа,Coffee,,,list,Нес са сојиним млеком,Nescafé with soy milk,,,340,,0
 coffee,Безалкохолно,Non-alcoholic,Кафа,Coffee,,,list,Нес Бејлис,Nescafé Baileys,,,350,,1
 coffee,Безалкохолно,Non-alcoholic,Кафа,Coffee,,,list,Домаћа кафа Зрнослава,Zrnoslava traditional coffee,,,150,,1
-coffee,Безалкохолно,Non-alcoholic,Топли напици,Hot Drinks,,,list,Милфорд,Milford tea,камилица / нана / црни / јагода-јогурт / јабука-цимет,chamomile / mint / black / strawberry-yogurt / apple-cinnamon,190,,1
-coffee,Безалкохолно,Non-alcoholic,Топли напици,Hot Drinks,,,list,Топла чоколада,Hot chocolate,бела / црна,white / dark,320,,1
+coffee,Безалкохолно,Non-alcoholic,Топли напици,Hot Drinks,,,list,Чај Милфорд,Milford tea,камилица / нана / црни / јагода-јогурт / јабука-цимет,chamomile / mint / black / strawberry-yogurt / apple-cinnamon,190,,1
+coffee,Безалкохолно,Non-alcoholic,Топли напици,Hot Drinks,,,list,Топла чоколада,Hot chocolate,црна,dark,320,,1
 coffee,Безалкохолно,Non-alcoholic,Топли напици,Hot Drinks,,,list,Кувано вино,Mulled wine,,,320,,1
 coffee,Безалкохолно,Non-alcoholic,Цеђени сокови,Fresh Juices,,,list,Лимунада,Lemonade,,,270,,1
 coffee,Безалкохолно,Non-alcoholic,Цеђени сокови,Fresh Juices,,,list,Цеђена поморанџа,Fresh orange juice,,,360,,1
-coffee,Безалкохолно,Non-alcoholic,Цеђени сокови,Fresh Juices,,,list,Цеђени грејп,Fresh grapefruit juice,,,390,,1
+coffee,Безалкохолно,Non-alcoholic,Цеђени сокови,Fresh Juices,,,list,Цеђени грејп,Fresh grapefruit juice,,,390,,0
 coffee,Безалкохолно,Non-alcoholic,Цеђени сокови,Fresh Juices,,,list,Цеђени микс,Fresh mixed juice,,,410,,0
-coffee,Безалкохолно,Non-alcoholic,Негазирани сокови,Still Juices,,,list,Кјуб,Qube,јагода / јабука,strawberry / apple,240,,1
+coffee,Безалкохолно,Non-alcoholic,Негазирани сокови,Still Juices,,,list,Кјуб,Qube,јабука / наранџа / јагода,apple / orange / strawberry,240,,1
 coffee,Безалкохолно,Non-alcoholic,Негазирани сокови,Still Juices,,,list,Ајс ти,Ice tea,,,240,,1
 coffee,Безалкохолно,Non-alcoholic,Негазирани сокови,Still Juices,,,list,Цедевита,Cedevita,поморанџа / зова / лимета,orange / elderflower / lime,220,,1
 coffee,Безалкохолно,Non-alcoholic,Негазирани сокови,Still Juices,,,list,Аква Вива,Aqua Viva,,,190,,1
@@ -33,7 +33,7 @@ coffee,Безалкохолно,Non-alcoholic,Газирани сокови,Carb
 coffee,Безалкохолно,Non-alcoholic,Газирани сокови,Carbonated Drinks,,,list,7уп,7UP,,,240,,1
 coffee,Безалкохолно,Non-alcoholic,Газирани сокови,Carbonated Drinks,,,list,Евервес тоник,Evervess tonic,,,240,,1
 coffee,Безалкохолно,Non-alcoholic,Газирани сокови,Carbonated Drinks,,,list,Евервес битер лемон,Evervess bitter lemon,,,240,,1
-coffee,Безалкохолно,Non-alcoholic,Газирани сокови,Carbonated Drinks,,,list,Клакер,Klaker,жути / црвени,yellow / red,220,,1
+coffee,Безалкохолно,Non-alcoholic,Газирани сокови,Carbonated Drinks,,,list,Клакер,Klaker,црвени,red,220,,1
 coffee,Безалкохолно,Non-alcoholic,Газирани сокови,Carbonated Drinks,,,list,Ред Бул,Red Bull,оригинал / зеро / ред едишн,original / zero / red edition,350,,1
 coffee,Безалкохолно,Non-alcoholic,Газирани сокови,Carbonated Drinks,,,list,Књаз Милош газиран,Knjaz Miloš sparkling water,,,190,,1
 coffee,Безалкохолно,Non-alcoholic,Газирани сокови,Carbonated Drinks,,,list,Књаз Милош са лимуном,Knjaz Miloš with lemon,,,210,,1
